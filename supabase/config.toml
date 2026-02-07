@@ -1,0 +1,7 @@
+project_id = "ewwxokbowauupujsmdlu"
+
+[functions.explain-salary]
+verify_jwt = false
+
+[functions.salary-chat]
+verify_jwt = false
